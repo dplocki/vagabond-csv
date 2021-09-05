@@ -1,0 +1,4 @@
+Id,Name,IsSomething
+1,Boolean is 'TRUE',TRUE
+2,Boolean is 'FALSE',FALSE
+3,Boolean is empty,
