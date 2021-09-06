@@ -6,7 +6,7 @@ namespace VagabondCsv
     {
         public static void Main(string[] args)
         {
-            ReadingCsv.Start();
+            ReadingCsvWithBooleans.Start();
         }
     }
 }

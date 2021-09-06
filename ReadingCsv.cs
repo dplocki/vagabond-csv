@@ -6,7 +6,7 @@ using CsvHelper.Configuration.Attributes;
 
 namespace VagabondCsv
 {
-    public class ReadingCsv
+    public class ReadingCsvWithBooleans
     {
         public static void Start()
         {
