@@ -1,4 +1,4 @@
 Id,Name,IsSomething
 1,Boolean is 'TRUE',TRUE,Additional
-2,Boolean is 'FALSE',FALSE,Also additional
+2,Boolean is 'FALSE',FALSE,Additional 1, Additional 2
 3,Boolean is empty,
