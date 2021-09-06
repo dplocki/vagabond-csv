@@ -6,6 +6,11 @@ namespace VagabondCsv
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("MergingParsingMethods");
+            MergingParsingMethods.Start();
+            
+            Console.WriteLine();
+            Console.WriteLine("ReadingCsvWithBooleans");
             ReadingCsvWithBooleans.Start();
         }
     }
